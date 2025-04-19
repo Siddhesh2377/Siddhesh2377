@@ -31,7 +31,7 @@ I’m a Computer Science diploma candidate at Government Polytechnic Mumbai (Aug
 | Project                                           | Description                                      | Link                                                                                   |
 |---------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------|
 | **MaterialSplitButton-ReCreated**                 | Missing Material 3 SplitButton for Android       | [GitHub](https://github.com/Siddhesh2377/MaterialSplitButton-ReCreated)                |
-| **Ridan AI**                                      | On-device ML chat & automation companion         | [Play Store](https://play.google.com/store/apps/details?id=com.ridan.ai&hl=en_IN)       |
+| **Ridan AI**                                      | AI-powered Personal Assistant                    | [Play Store](https://play.google.com/store/apps/details?id=com.ridan.ai&hl=en_IN)       |
 | **MiJo – Journal Widget**                         | Home-screen Glance widget with real-time updates | [Repo](https://github.com/Siddhesh2377/MiJo-Journal-Widget)                             |
 
 ---
