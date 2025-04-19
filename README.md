@@ -46,7 +46,7 @@ I’m a Computer Science diploma candidate at Government Polytechnic Mumbai (Aug
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
 - 🐙 [GitHub](https://github.com/Siddhesh2377)
-- 📫 Email: siddhesh.sonar@example.com
+- 📫 Email: siddheshsonar2377@gmail.com
 
 ---
 
