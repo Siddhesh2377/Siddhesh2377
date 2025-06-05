@@ -30,9 +30,11 @@ I’m a Computer Science diploma candidate at Government Polytechnic Mumbai (Aug
 
 | Project                                           | Description                                      | Link                                                                                   |
 |---------------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------|
+| **NeuroVerse**                                    | AI-powered Android automation with plugins       | [Repo](https://github.com/Siddhesh2377/NeuroVerse)                                     |
+| **ListApplicationsPlugin**                        | Sample plugin for listing apps in NeuroVerse     | [Repo](https://github.com/Siddhesh2377/ListApplicationsPlugin)                         |
 | **MaterialSplitButton-ReCreated**                 | Missing Material 3 SplitButton for Android       | [GitHub](https://github.com/Siddhesh2377/MaterialSplitButton-ReCreated)                |
-| **Ridan AI**                                      | AI-powered Personal Assistant                    | [Play Store](https://play.google.com/store/apps/details?id=com.ridan.ai&hl=en_IN)       |
-| **MiJo – Journal Widget**                         | Home-screen Glance widget with real-time updates | [Repo](https://github.com/Siddhesh2377/MiJo-Journal-Widget)                             |
+| **Ridan AI**                                      | AI-powered Personal Assistant                    | [Play Store](https://play.google.com/store/apps/details?id=com.ridan.ai&hl=en_IN)      |
+| **MiJo – Journal Widget**                         | Home-screen Glance widget with real-time updates | [Repo](https://github.com/Siddhesh2377/MiJo-Journal-Widget)                            |
 
 ---
 
