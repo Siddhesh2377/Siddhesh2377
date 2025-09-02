@@ -27,14 +27,13 @@ I’m Siddhesh Sonar, a Computer Software Engineering student at Government Poly
 
 ### Pinned Projects
 
-| Project                | Description                                        | Link                                                                     |
-| ---------------------- | -------------------------------------------------- | ------------------------------------------------------------------------ |
-| NeuroVerse             | Offline AI-powered Android automation with plugins | [Repo](https://github.com/Siddhesh2377/NeuroVerse)                       |
-| ListApplicationsPlugin | Sample plugin for NeuroVerse showing app listing   | [Repo](https://github.com/Siddhesh2377/ListApplicationsPlugin)           |
-| MaterialSplitButton    | Material 3 SplitButton recreation for Compose      | [Repo](https://github.com/Siddhesh2377/MaterialSplitButton-ReCreated)    |
-| Ridan AI               | Personal AI assistant for Android                  | [Play Store](https://play.google.com/store/apps/details?id=com.ridan.ai) |
-| MiJo                   | Journal Glance Widget with live updates            | [Repo](https://github.com/Siddhesh2377/MiJo-Journal-Widget)              |
-
+| Project             | Description                                       | Link                                                                     |
+|---------------------| ------------------------------------------------- |--------------------------------------------------------------------------|
+| NeuroVerse          | Offline AI-powered Android automation with plugins | [Repo](https://github.com/Siddhesh2377/NeuroVerse)                       |
+| Neuro-V-Sys-Plugins | First-party, Compose-based modules for NeuroVerse | [Repo](https://github.com/Siddhesh2377/Neuro-V-Sys-Plugins)              |
+| SPB                 |A lightweight, browser‑first tool for designing well‑structured AI prompts| [Repo](https://github.com/Siddhesh2377/structured-prompt-builder)              |
+| MaterialSplitButton | Material 3 SplitButton recreation for Compose     | [Repo](https://github.com/Siddhesh2377/MaterialSplitButton-ReCreated)    |
+| Ridan AI            | Personal AI assistant for Android                 | [Play Store](https://play.google.com/store/apps/details?id=com.ridan.ai) |
 ---
 
 ### GitHub Stats
