@@ -46,7 +46,7 @@ I’m Siddhesh Sonar, a Computer Software Engineering student at Government Poly
 
 ### Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/siddheshsonar)
+* [LinkedIn](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
 * [GitHub](https://github.com/Siddhesh2377)
 * Email: [siddheshsonar2377@gmail.com](mailto:siddheshsonar2377@gmail.com)
 
