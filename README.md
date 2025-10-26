@@ -4,11 +4,11 @@
 
 ### About Me
 
-I’m Siddhesh Sonar, a Computer Software Engineering student at Government Polytechnic Mumbai (Aug ’24 – Jun ’26) and a self‑taught Android + AI developer with 5+ years of hands‑on build/ship experience. I’ve built custom AOSP modules, published multiple apps, and architected **ToolNeuron** (formerly NeuroVerse) — an offline, privacy‑first AI chat + plugin ecosystem for Android with hardware‑backed encryption.
+I’m Siddhesh Sonar, a Computer Software Engineering student at Government Polytechnic Mumbai (Aug ’24 – Jun ’26) and a self-taught Android + AI developer with over 5 years of practical build/ship experience. I’ve worked across custom AOSP modules, shipped production apps, and architected **ToolNeuron** — an offline, privacy-first AI chat and plugin ecosystem for Android secured by hardware-backed encryption.
 
 **Past Internships:** DOI Soft Tech · Crimson Insights · HealthVatika
-**Focus Areas:** On‑device AI · Plugin Systems · Secure Android Runtime
-**Current Project:** **ToolNeuron** — offline AI chat + plugins (Web Search plugin, runtime model switching, model store, in‑app updates)
+**Focus Areas:** On-device AI · Plugin Systems · Secure Android Runtime
+**Current Project:** **ToolNeuron** — offline AI chat + plugins (Web Search plugin, runtime model switching, model store, in-app updates)
 **Exploring:** Kotlin Multiplatform · Rust · Whisper STT · TensorFlow Lite
 
 ---
@@ -25,17 +25,18 @@ I’m Siddhesh Sonar, a Computer Software Engineering student at Government Poly
 
 ---
 
-### What I’m Building (now)
+### What I’m Building (Now)
 
-* **ToolNeuron** — Offline AI chat + modular plugins
+**ToolNeuron** — Offline AI chat + modular plugins
 
-  * ✅ Local chat (no cloud)
-  * ✅ **Web Search plugin** (tool‑calling)
-  * ✅ Switch models at runtime
-  * ✅ In‑app updates
-  * ✅ Import GGUF models & tweak params; Model Store downloads
-  * 🔒 Hardware‑grade encryption via Android KeyStore
-  * 🧰 Plugin manager with metadata (author, role) and validation/sandboxing
+* Local chat (no cloud dependency)
+* Web Search plugin (tool-calling)
+* Runtime model switching
+* In-app update mechanism
+* GGUF model import + param tuning
+* Model Store for curated downloads
+* Hardware-grade encryption (Android KeyStore)
+* Plugin manager with sandbox validation
 
 ---
 
@@ -43,10 +44,10 @@ I’m Siddhesh Sonar, a Computer Software Engineering student at Government Poly
 
 | Project                           | Description                                                                                                                | Link                                                                     |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **ToolNeuron** (prev. NeuroVerse) | Offline AI chat for Android with a secure plugin framework (web search, runtime model switch, model store, in‑app updates) | [Repo](https://github.com/Siddhesh2377/ToolNeuron)                       |
-| **ToolNeuron System Plugins**     | First‑party plugins for ToolNeuron (incl. **Web Search** plugin)                                                           | [Repo](https://github.com/Siddhesh2377/ToolNeuron-Sys-Plugins)              |
-| **SPB**                           | Lightweight, browser‑first tool for designing well‑structured AI prompts                                                   | [Repo](https://github.com/Siddhesh2377/structured-prompt-builder)        |
-| **MaterialSplitButton**           | Material‑3 SplitButton recreation for Compose                                                                              | [Repo](https://github.com/Siddhesh2377/MaterialSplitButton-ReCreated)    |
+| **ToolNeuron** (prev. NeuroVerse) | Offline AI chat for Android with a secure plugin framework (web search, runtime model switch, model store, in-app updates) | [Repo](https://github.com/Siddhesh2377/ToolNeuron)                       |
+| **ToolNeuron System Plugins**     | First-party plugins for ToolNeuron (including **Web Search** plugin)                                                       | [Repo](https://github.com/Siddhesh2377/ToolNeuron-Sys-Plugins)           |
+| **SPB**                           | Lightweight, browser-first tool for designing well-structured AI prompts                                                   | [Repo](https://github.com/Siddhesh2377/structured-prompt-builder)        |
+| **MaterialSplitButton**           | Material 3 SplitButton recreation for Jetpack Compose                                                                      | [Repo](https://github.com/Siddhesh2377/MaterialSplitButton-ReCreated)    |
 | **Ridan AI**                      | Personal AI assistant for Android                                                                                          | [Play Store](https://play.google.com/store/apps/details?id=com.ridan.ai) |
 
 ---
@@ -60,16 +61,16 @@ I’m Siddhesh Sonar, a Computer Software Engineering student at Government Poly
 
 ### Connect with Me
 
-* LinkedIn: [https://www.linkedin.com/in/siddhesh-sonar-7840a7260/](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
-* GitHub: [https://github.com/Siddhesh2377](https://github.com/Siddhesh2377)
+* LinkedIn: [linkedin.com/in/siddhesh-sonar-7840a7260](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
+* GitHub: [github.com/Siddhesh2377](https://github.com/Siddhesh2377)
 * Email: [siddheshsonar2377@gmail.com](mailto:siddheshsonar2377@gmail.com)
 
 ---
 
 ### Support
 
-Open to **sponsorships** and collaborations to push on‑device AI forward
+Open to collaborations, sponsorships, and discussions on advancing **on-device AI** development.
 
 ---
 
-Crafted for developers, builders, and open‑source collaborators.
+Crafted for developers, builders, and open-source collaborators.
