@@ -1,4 +1,4 @@
-## Siddhesh Sonar — Android & AI Developer <img src="https://komarev.com/ghpvc/?username=Siddhesh2377&color=FF0000&style=flat" height="25px"/>
+## Siddhesh Sonar — Android & AI Developer <img src="https://komarev.com/ghpvc/?username=Siddhesh2377&color=0D4715&style=flat" height="25px"/>
 
 ---
 
