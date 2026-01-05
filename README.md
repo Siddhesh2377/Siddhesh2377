@@ -53,9 +53,11 @@ I’m Siddhesh Sonar, a Computer Software Engineering student at Government Poly
 ---
 
 ### GitHub Stats
+<!-- GitHub Streak Stats (working) -->
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Siddhesh2377&theme=tokyonight&hide_border=true)
 
-![Siddhesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhesh2377\&show_icons=true\&bg_color=E0F7FA\&title_color=007ACB\&text_color=005B9E\&icon_color=007AC6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh2377\&layout=compact\&bg_color=E0F7FA\&title_color=007ACC\&text_color=005B9E\&icon_color=007ACB)
+<!-- Awesome GitHub Stats (the one you're already using - works!) -->
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Siddhesh2377?cardType=level&theme=tokyonight&preferLogin=false)
 
 ---
 
