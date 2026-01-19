@@ -1,78 +1,56 @@
-## Siddhesh Sonar — Android & AI Developer <img src="https://komarev.com/ghpvc/?username=Siddhesh2377&color=0D4715&style=flat" height="25px"/>
+## Siddhesh Sonar — Building Privacy-First AI for Healthcare <img src="https://komarev.com/ghpvc/?username=Siddhesh2377&color=0D4715&style=flat" height="25px"/>
+
+19-year-old founder solving HIPAA compliance for 1.5M+ doctors who can't use ChatGPT.
+
+**ToolNeuron** — Enterprise AI that runs 100% offline on Android. No cloud, no violations, no compromises.
+
+Used by military trauma specialists. First paying customer pilot live.
 
 ---
 
-### About Me
+### The Problem
+Doctors can't use ChatGPT (HIPAA violations)  
+Lawyers can't use Claude (confidentiality breach)  
+Cloud AI = incompatible with regulated industries
 
-I’m Siddhesh Sonar, a Computer Software Engineering student at Government Polytechnic Mumbai (Aug ’24 – Jun ’26) and a self-taught Android + AI developer with over 5 years of practical build/ship experience. I’ve worked across custom AOSP modules, shipped production apps, and architected **ToolNeuron** — an offline, privacy-first AI chat and plugin ecosystem for Android secured by hardware-backed encryption.
-
-**Past Internships:** DOI Soft Tech · Crimson Insights · HealthVatika
-**Focus Areas:** On-device AI · Plugin Systems · Secure Android Runtime
-**Current Project:** **ToolNeuron** — offline AI chat + plugins (Web Search plugin, runtime model switching, model store, in-app updates)
-**Exploring:** Kotlin Multiplatform · Rust · Whisper STT · TensorFlow Lite
+### The Solution
+**ToolNeuron** — Local AI on mobile devices
+- ✅ 100% offline (no data leakage)
+- ✅ HIPAA/GDPR ready (audit logs, encryption)
+- ✅ Fast (7s response, 8B models)
+- ✅ Enterprise features (team sharing, compliance)
 
 ---
 
 ### Tech Stack
-
-| Category   | Technologies                                                   |
-| ---------- | -------------------------------------------------------------- |
-| Languages  | Kotlin · Java · Python · C++ (JNI)                             |
-| Android    | Jetpack Compose · AOSP · Android SDK · NDK/JNI                 |
-| Frameworks | Coroutines · MVVM · LiveData                                   |
-| Tooling    | Git · GitHub Actions · Retrofit · RoomDB · Firebase            |
-| AI/ML      | llama.cpp (JNI) · TensorFlow Lite · Whisper STT · ONNX Runtime |
+**Languages:** Kotlin · C++ (JNI) · Python  
+**Android:** Jetpack Compose · AOSP · NDK  
+**AI/ML:** llama.cpp · GBNF · Multi-modal · Tool Calling  
 
 ---
 
-### What I’m Building (Now)
+### Projects
 
-**ToolNeuron** — Offline AI chat + modular plugins
+**[ToolNeuron](https://github.com/Siddhesh2377/ToolNeuron)** — Privacy-first AI for regulated industries  
+568+ downloads · 136 stars · First paying customer
 
-* Local chat (no cloud dependency)
-* Web Search plugin (tool-calling)
-* Runtime model switching
-* In-app update mechanism
-* GGUF model import + param tuning
-* Model Store for curated downloads
-* Hardware-grade encryption (Android KeyStore)
-* Plugin manager with sandbox validation
+**[System Plugins](https://github.com/Siddhesh2377/ToolNeuron-Sys-Plugins)** — Drug interactions, PubMed, Web Search
+
+**[SPB](https://github.com/Siddhesh2377/structured-prompt-builder)** — Structured prompt builder
 
 ---
 
-### Pinned Projects
 
-| Project                           | Description                                                                                                                | Link                                                                     |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **ToolNeuron** (prev. NeuroVerse) | Offline AI chat for Android with a secure plugin framework (web search, runtime model switch, model store, in-app updates) | [Repo](https://github.com/Siddhesh2377/ToolNeuron)                       |
-| **ToolNeuron System Plugins**     | First-party plugins for ToolNeuron (including **Web Search** plugin)                                                       | [Repo](https://github.com/Siddhesh2377/ToolNeuron-Sys-Plugins)           |
-| **SPB**                           | Lightweight, browser-first tool for designing well-structured AI prompts                                                   | [Repo](https://github.com/Siddhesh2377/structured-prompt-builder)        |
-| **MaterialSplitButton**           | Material 3 SplitButton recreation for Jetpack Compose                                                                      | [Repo](https://github.com/Siddhesh2377/MaterialSplitButton-ReCreated)    |
-| **Ridan AI**                      | Personal AI assistant for Android                                                                                          | [Play Store](https://play.google.com/store/apps/details?id=com.ridan.ai) |
+### Connect
+📧 [siddheshsonar2377@gmail.com](mailto:siddheshsonar2377@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)  
+
+Open to: Healthcare pilots · Cofounder conversations · Angel investors
 
 ---
 
-### GitHub Stats
-<!-- GitHub Streak Stats (working) -->
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Siddhesh2377&theme=tokyonight&hide_border=true)
 
-<!-- Awesome GitHub Stats (the one you're already using - works!) -->
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Siddhesh2377?cardType=level&theme=tokyonight&preferLogin=false)
-
 ---
 
-### Connect with Me
-
-* LinkedIn: [linkedin.com/in/siddhesh-sonar-7840a7260](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
-* GitHub: [github.com/Siddhesh2377](https://github.com/Siddhesh2377)
-* Email: [siddheshsonar2377@gmail.com](mailto:siddheshsonar2377@gmail.com)
-
----
-
-### Support
-
-Open to collaborations, sponsorships, and discussions on advancing **on-device AI** development.
-
----
-
-Crafted for developers, builders, and open-source collaborators.
+**Building AI that doesn't compromise privacy.**
