@@ -1,50 +1,44 @@
-# Siddhesh Sonar <img src="https://komarev.com/ghpvc/?username=Siddhesh2377&color=0D4715&style=flat" height="25px"/>
+# Siddhesh Sonar
+<img src="https://komarev.com/ghpvc/?username=Siddhesh2377&color=0D4715&style=flat" height="25px"/>
+
+**On-Device AI / Edge Inference Engineer**
+
+I make large AI models run fast on mobile hardware. I work across the full stack — from tensor-level optimizations in GGML/C++, through JNI bindings, to production Android apps. Currently building on-device inference infrastructure at [RunAnywhere](https://runanywhere.ai) (YC W26).
 
 ---
 
-### Tech Stack
+### What I've Built
 
-**Languages:** Kotlin · Java · C++ (JNI/NDK) · Python · Rust (exploring)
+**[ToolNeuron](https://github.com/Siddhesh2377/ToolNeuron)** — Production offline AI ecosystem for Android. 500+ commits. Native C++ inference via llama.cpp with custom JNI bindings. Plugin sandboxing with hardware-backed encryption (Android KeyStore). GGUF model management, runtime model switching, offline TTS (Sherpa-ONNX), and OTA updates. 2K+ Play Store installs.
 
-**Android:** Jetpack Compose · AOSP · NDK · AIDL · Accessibility Services · Android KeyStore
+**[Ai-Systems-New](https://github.com/Siddhesh2377/Ai-Systems-New)** — The native C/C++ inference engine powering ToolNeuron. Direct GGML integration, custom tensor operations optimized for mobile SOCs.
 
-**AI/ML:**
-- On-device inference: llama.cpp · ONNX Runtime · TensorFlow Lite · Whisper STT · Sherpa-ONNX
-- Model formats: GGUF · ONNX · LoRA adapters · OTA weight delivery
-- Techniques: GBNF · Multi-modal · Tool Calling · LoRA fine-tuning · Adapter switching · Model merging (TIES, DARE, SLERP)
-- Training: SFT with LoRA · On-device PEFT (experimental) · Federated learning (exploring)
+**[ForgeAI](https://forge-64364c0e.mintlify.app/getting-started/introduction)** — Toolkit for SafeTensors and GGUF model operations — inspection, conversion, and manipulation.
 
-**GPU / NPU Systems:**
-- Vulkan compute pipelines · ggml-vulkan submission model · timeline semaphores · GPU watchdog behavior
-- UMA (Unified Memory Architecture) on mobile SoCs · Heterogeneous compute (CPU + GPU + NPU scheduling)
-- GGML kernel paths: MMLA · I8MM · instruction-level runtime specialization
-- Adreno GPU scheduling · low-priority compute queues · DEVICE LOST debugging
-- Workload shape analysis: CLIP vs UNet dispatch behavior · conditional ramp tuning for mobile
-- Smart ML-op offloading across CPU / GPU / NPU
-
-**Security & Cryptography:** AES-256 · RSA · Hardware-backed Android KeyStore · Secure IPC · Encrypted pipelines
-
-**Architecture:** Plugin SDK design · Modular runtime systems · MVVM · Clean Architecture · Dependency Injection
-
-**DevOps:** GitHub Actions (CI/CD) · Gradle KTS · JUnit · Espresso · Crashlytics · Linux
+**[N1](https://github.com/Siddhesh2377/n1-prj)** — Experimental self-rewriting neural architecture using local error signals. No backpropagation. Runtime weight mutation based on surprise signals.
 
 ---
 
-### What I Build
+### What I Know (Deeply, Not Surface Level)
 
-Privacy-first, offline AI systems that run entirely on-device — no cloud, no compromise.
+**Inference on constrained hardware** — GGML internals, compute graph construction for new model architectures, ML op scheduling across CPU/GPU/NPU, quantization scheme behavior on real devices (Q4_K_M, Q5_K_S, Q8_0).
 
-Not just apps. Ecosystems: plugin runtimes, inference cores, OTA adapter delivery, agent workflows, and the low-level GPU plumbing that makes it all actually run on mobile hardware.
+**Mobile SOC architectures** — Qualcomm Hexagon DSP (HVX vector extensions), Adreno GPU compute pipelines (Vulkan, timeline semaphores), QNN SDK for NPU graph compilation, ARM CPU architecture differences across Android devices.
 
----
-
-### Connect
-
-📧 [siddheshsonar2377@gmail.com](mailto:siddheshsonar2377@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
-
-Open to: Startup roles · On-device AI research · SDK/tooling engineering · Cofounder conversations
+**Production Android** — NDK/JNI, Jetpack Compose, plugin SDK design, secure IPC, encrypted inference pipelines, AOSP-level optimizations.
 
 ---
 
-**Building AI that doesn't need the cloud to be intelligent.**
+### Currently
+
+- Building cross-platform on-device inference infrastructure at **RunAnywhere (YC W26)**
+- Deepening formal math foundations (linear algebra, quantization theory)
+- Maintaining and shipping ToolNeuron updates
+
+---
+
+### Contact
+
+[siddheshsonar2377@gmail.com](mailto:siddheshsonar2377@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
+
+Open to full-time roles in edge AI, on-device inference, and mobile AI infrastructure.
