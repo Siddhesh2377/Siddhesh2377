@@ -20,4 +20,4 @@ I also wrote Hexagon DSP kernels that skip the QNN SDK. The benchmark reported 8
 
 `C++` `llama.cpp` `GGML` `Android` `Kotlin` `Swift` `MLX` `Hexagon` `Rust`
 
-Mumbai · [Blog](https://siddhesh-blogs.vercel.app) · [Email](mailto:siddheshsonar2377@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
+ [Blog](https://siddhesh-blogs.vercel.app) · [Email](mailto:siddheshsonar2377@gmail.com) · [LinkedIn](https://www.linkedin.com/in/siddhesh-sonar-7840a7260/)
